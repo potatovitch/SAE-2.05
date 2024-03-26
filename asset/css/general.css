@@ -1,0 +1,57 @@
+@import url('https://fonts.googleapis.com/css2?family=Dangrek&display=swap');
+
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: 'Dangrek';
+}
+
+/* NavBar Header*/
+
+header nav ul li{
+    padding: 10px;
+    transition: .2s;
+    border: 2px transparent solid;
+}
+header nav ul li img{
+    width: 300px;
+    transition: 1s;
+}
+header nav ul{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    list-style-type: none;
+}
+#account-button-navbar{
+    border: 2px solid black;
+    border-radius: 100%;
+    padding: 10px 20px;
+    font-size: 20px;
+}
+#account-button-navbar i {
+    transform: rotate(0);
+    transform-origin: center;
+    transition: .5s;
+}
+#account-button-navbar i:hover{
+    transform: rotate(360deg);
+}
+#select{
+    border-top: 2px solid black !important;
+    border-bottom: 2px solid black !important;
+    border-right: none !important;
+    border-left: none !important;
+    width: 100px;
+    text-align: center;
+}
+#product:hover, #home:hover, #contact:hover{
+    border-right: 2px solid rgb(69, 69, 69);
+    border-left: 2px solid rgb(69, 69, 69);
+    color: rgb(69, 69, 69);
+}
+header nav ul li img:hover{
+    filter: grayscale(100%);
+    -webkit-filter: grayscale(100%);
+}
