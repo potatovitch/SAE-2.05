@@ -1,9 +1,10 @@
 # SAE-2.05
 
-[projet leK](https://github.com/potatovitch/leK/tree/main)
+[Projet leK](https://github.com/potatovitch/leK/tree/main)
 
 ***
 
-*
-*
-*
+* faire l'index
+* faire la css
+* faire le carroussel en css
+* mettre le logo
