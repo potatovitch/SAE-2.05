@@ -7,4 +7,3 @@
 * faire l'index
 * faire la css
 * faire le carroussel en css
-* mettre le logo
