@@ -1,7 +1,5 @@
 # SAE-2.05
 
-[Projet leK](https://github.com/potatovitch/leK/tree/main)
-
 ***
 
 * faire l'index
